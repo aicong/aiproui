@@ -17,5 +17,12 @@
   "author": "Pro",
   "license": "MIT",
   "description": "",
-  "typings": "lib/index.d.ts"
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aicong/aiproui"
+  }
 }
